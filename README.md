@@ -1,4 +1,10 @@
 # MW19-AIO-Updater-tool
+BUG in the way shortcut doesnt function, you will have to manually make a shortcut!
+
+def create_desktop_shortcut(executable_path):
+    desktop_path = os.path.expanduser('~\\Desktop')
+    shortcut_path = os.path.join(desktop_path, 'game_dx12_ship_replay.lnk')
+
 MW19 AIO Updater tool Created in Python, updates the public MW19 build 
 Provides the missing files needed to load the public mw19 build in SP, LAN, Verd.
 DLL is replaced in the mw19 folder
