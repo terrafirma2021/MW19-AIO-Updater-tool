@@ -1,0 +1,1 @@
+Extract recipe files to Documents\Call of Duty Modern Warfare\players\raw\mp\recipes
