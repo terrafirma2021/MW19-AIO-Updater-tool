@@ -7,3 +7,6 @@ autoexec.cfg added to the correct path
 basemaps.arena placed correctly
 recipes added for each game mode
 Dev Mode enabled
+Source code and built EXE for those that cannot build
+Virustotal Link (build.rar) Source code provided anyways but just to show anyways
+https://www.virustotal.com/gui/file/00a003c8a6721711460f6c17b3b31708b1adebc4ba10bd08df1ae6b301ae953f?nocache=1
