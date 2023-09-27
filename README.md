@@ -27,3 +27,4 @@ Only known bug is shortcut doesnt function correctly. you will have to manually 
 def create_desktop_shortcut(executable_path): 
     desktop_path = os.path.expanduser('~\\Desktop')
     shortcut_path = os.path.join(desktop_path, 'game_dx12_ship_replay.lnk')
+ 
